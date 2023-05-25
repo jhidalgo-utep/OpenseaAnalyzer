@@ -1,4 +1,4 @@
-# OpenSeaAnalyzer
+# OpenseaAnalyzer
 
 
 
