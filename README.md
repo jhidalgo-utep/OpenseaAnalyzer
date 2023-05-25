@@ -17,7 +17,7 @@
 
 ## Resources:
 -  Python 3.7.9 
-- [Opensea API](https://docs.opensea.io/v1.0/reference/api-overview) for the Opensea marketplace requests
+- Opensea marketplace [Opensea API](https://docs.opensea.io/v1.0/reference/api-overview)
     
 ## Installation:
 - Downloaded [Python3](https://www.python.org/downloads/release/python-379/)
