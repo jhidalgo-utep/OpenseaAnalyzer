@@ -14,6 +14,20 @@
 - [ ] Today's breakfast
 
 
+## Functions:
+- update database
+- find collection stats
+- compare collections stats to each other
+- see/compare graph diagrams
+- see the delta's of a paticular list 
+- (i.e. alien nft's, famous people nft's, pokemon nft's, gamming, pfp nft's, memberships, trendings...) 
+- see upcoming high potentional nft's to mint
+- see trending NFT's on opensea using web scraping
+- add/remove/search database
+- compare collection stats to database
+- be able to take word input commands
+
+
 
 ## Resources:
 -  Python 3.7.9 
